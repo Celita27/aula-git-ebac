@@ -2,7 +2,7 @@ Dados do aluno
 
 -Primeiro Nome: Celia Fonseca   
 -Profissão: Tecnico em processamento de dados
--Cidade:    São Paulo
+-Cidade:São Paulo
 -O que faz nas horas vaga: Cooper e ciclismo
 -Feedback sobre o curso Qualidade de Software: Estou achando muito dificil.. mas vamos à luta
 -Feedback sobre a plataforma de estudo da EBAC: Conteúdos deveria ser mais detalhados/ mais abrangente nos detalhes
